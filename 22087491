@@ -69,4 +69,4 @@ plt.annotate("This Bar plot will automatically sort the top 5 countries if we ar
 plt.suptitle('A Population Analysis Infographics for the countries China, United Kingdom, United States of America, India and Brazil\nName: Muhammad Hasan Khan\nStudent ID: 22087491', fontsize=16, color='black'  )
 
 # Save the visualisation as PNG
-plt.savefig("22087491_selected_countries_infographics.png", dpi=300, facecolor=background_color)
+ plt.show()
